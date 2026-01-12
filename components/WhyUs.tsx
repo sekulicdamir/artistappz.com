@@ -18,7 +18,7 @@ const WhyUs: React.FC = () => {
 
           <div className="space-y-12">
             <div className="border-l-4 border-accent pl-8 py-4">
-              <span className="block text-7xl md:text-8xl font-mono font-bold text-white mb-4 tracking-tighter">50+</span>
+              <span className="block text-7xl md:text-8xl font-mono font-bold text-white mb-4 tracking-tighter">60+</span>
               <span className="text-zinc-500 text-lg uppercase tracking-widest font-medium">Deployments</span>
             </div>
             
