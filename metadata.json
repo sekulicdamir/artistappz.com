@@ -1,0 +1,7 @@
+{
+  "name": "ArtistAppz",
+  "description": "Technology Consulting firm specializing in AI implementation for web solutions. Professional, modern, and business-focused.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
